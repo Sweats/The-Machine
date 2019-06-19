@@ -24,4 +24,4 @@ As of a year ago, everything works except the logic of the bot itself which I ne
 
 # Where does the name come from?
 
-The bot is named after The Machine in the TV show "Person Of Interest". It's a really good TV show that is worth watching.
+The bot is named after The Machine in the TV show "Person of Interest". It's a really good TV show that is worth watching.
