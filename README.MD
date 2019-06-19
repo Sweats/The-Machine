@@ -21,3 +21,7 @@ It can be annoying to do all of this by hand all the time so I recommend that yo
 The Kik.smali file contains functions from Kik's original compiled source code that I had to find in the kik APk. I managed to isolate the functions that I need to actually make the bot. These functions are called by using the static functions inside one of the Java files.
 
 As of a year ago, everything works except the logic of the bot itself which I never finished because I lost interest in the project because Telegram is a much better instant messaging platform.
+
+# Where does the name come from?
+
+The bot is named after The Machine in the TV show "Person Of Interest". It's a really good TV show that is worth watching.
